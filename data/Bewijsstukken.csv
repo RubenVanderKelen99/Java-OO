@@ -1,0 +1,112 @@
+StukNr;FactuurNr;Datum;Leverancier;Mededeling;Bedrag
+144;2018/3962;06/11/2018;1;Nazicht blustoestellen, haspels, noodverlichting;350,9
+83;1801123;20/04/2018;2;Periodieke keuring;73,34
+136;1804596;16/10/2018;2;Periodieke keuring;73,34
+191;2287660;01/01/2018;3;Correctie 01.04.17-31-03-18;1076,8
+78;118085915;03/04/2018;3;01.04.17-31-03-18;1149,4
+196;;31/12/2018;4;Kosten domein 2018;43170,44
+194;;01/01/2018;4;Kosten domein 2017;51840
+192;;31/12/2018;4;Web access 2018 Q1 Q2 Q3;2297,57
+195;;01/01/2018;4;Correctie 2017;14554,94
+44;;01/01/2018;4;Kosten domein Januari;7280
+53;;02/02/2018;4;Kosten domein Februari;7280
+63;;06/03/2018;4;Kosten domein Maart;7280
+82;;07/04/2018;4;Kosten domein April;5600
+86;;09/05/2018;4;Kosten domein Mei;5600
+94;;10/06/2018;4;Kosten domein Juni;5600
+106;;12/07/2018;4;Kosten domein Juli;5600
+115;;13/08/2018;4;Kosten domein Augustus;5600
+124;;14/09/2018;4;Kosten domein September;5600
+134;;16/10/2018;4;Kosten domein Oktober;5600
+140;;17/11/2018;4;Kosten domein November;5600
+147;;19/12/2018;4;Kosten domein December;5600
+150;;20/01/2019;4;Kosteen domein voorschot afvalstraat;3799,83
+170;;21/02/2019;4;Kosten domein Augustus - nog niet betaald;-5600
+171;;25/03/2019;4;Kosten domein September - nog niet betaald;-5600
+172;;26/04/2019;4;Kosten domein Oktober - nog niet betaald;-5600
+173;;28/05/2019;4;Kosten domein November - nog niet betaald;-5600
+174;;29/06/2019;4;Kosten domein December - nog niet betaald;-5600
+197;;31/07/2019;4;Betaalde voorschotten 2018;843,93
+198;;01/09/2019;4;Aandeel in reservekapitaal domein;843,93
+154;V2 40442;04/12/2018;5;Zouttabletten;188,16
+89;2018/Q1;05/05/2018;6;Verbruikskosten Q1 2018;5537,4
+117;2018/Q2;06/08/2018;6;Verbruikskosten Q2 2018;13725,2
+137;2018/Q3;30/09/2018;6;Verbruikskosten Q3 2018;24844,6
+200;;31/12/2018;6;Verbuikskosten 2018;-18532,8
+43;;01/01/2018;7;Saldo afrekening;100,36
+72;FAC170994616;01/01/2018;8;Juni;103
+87;;01/01/2018;7;Correctie;-100,36
+88;;01/01/2018;8;Correctie;-103
+68;;14/03/2018;9;Januari - maart;678
+75;;05/04/2018;9;Afrekening 14.09.17 - 10.03.18;3159,65
+100;;14/06/2018;9;April - Juni;1576
+127;;16/09/2018;9;Juli - September;1576
+151;;16/12/2018;9;Oktober - December;1576
+46;;01/01/2018;10;Januari;376,09
+55;;01/02/2018;10;Februari;376,09
+66;;01/03/2018;10;Maart;376,09
+77;;01/04/2018;10;April;376,09
+90;;01/05/2018;10;Mei;376,09
+96;;01/06/2018;10;Juni;376,09
+109;;01/07/2018;10;Juli;376,09
+120;;01/08/2018;10;Augustus;376,09
+125;;01/09/2018;10;September;376,09
+132;;01/10/2018;10;Oktober;376,09
+142;;01/11/2018;10;November;376,09
+149;;01/12/2018;10;December;376,09
+45;;01/01/2018;10;Hotspot Januari;1052,7
+54;;01/02/2018;10;Hotspot Februari;1052,7
+67;;01/03/2018;10;Hotspot Maart;1052,7
+76;;01/04/2018;10;Hotspot April;1052,7
+91;;01/05/2018;10;Hotspot Mei;1052,7
+97;;01/06/2018;10;Hotspot Juni;1052,7
+108;;01/07/2018;10;Hotspot Juli;1052,7
+119;;01/08/2018;10;Hotspot Augustus;1052,7
+126;;01/09/2018;10;Hotspot September;1052,7
+131;;01/10/2018;10;Hotspot Oktober;1052,7
+141;;01/11/2018;10;Hotspot November;1052,7
+148;;01/12/2018;10;Hotspot December;1052,7
+99;;08/06/2018;10;Juni;24,24
+112;;08/07/2018;10;Installatiekost telefoon brandcentrale + Juli;107,81
+121;;08/07/2018;10;Augustus;22,6
+128;;08/09/2018;10;September;22,6
+135;;08/10/2018;10;Oktober;22,6
+143;;08/11/2018;10;November;22,6
+153;;08/12/2018;10;December;25,53
+51;;01/02/2018;11;Januari;690
+52;;01/02/2018;11;Februari;701,78
+62;;02/03/2018;11;Maart;701,78
+73;;03/04/2018;11;April;701,78
+84;;04/05/2018;11;Mei;701,78
+93;;05/06/2018;11;Juni;701,78
+105;;06/07/2018;11;Juli;701,78
+113;;07/08/2018;11;Augustus;701,78
+122;;08/09/2018;11;September;701,78
+129;;09/10/2018;11;Oktober;701,78
+138;;10/11/2018;11;November;701,78
+145;;11/12/2018;11;December;701,78
+199;;31/12/2018;4;Domein 2017 & Domein 2018;843,93
+169;;31/12/2018;12;Vergoeding RME en Auditcomité;750
+92;;26/04/2018;13;Brandverzekering 04.05.18 - 03.05.19;2845,56
+101;;08/06/2018;13;Burgerlijke aansprakelijkheid 10.07.18 - 09.07.19;75
+104;;08/06/2018;14;Rechtsbijstand 10.07.18 - 09.07.19;341,1
+64;;28/02/2018;15;Conciërge Januari;600
+65;;28/02/2018;15;Conciërge Februari;600
+81;;31/03/2018;15;Conciërge Maart;600
+98;;30/04/2018;15;Conciërge April;600
+103;;31/05/2018;15;Conciërge Mei;600
+110;;30/06/2018;15;Conciërge Juni;600
+114;;31/07/2018;15;Conciërge Juli;600
+123;;31/08/2018;15;Conciërge Augustus;600
+130;;30/09/2018;15;Conciërge September;600
+139;;31/10/2018;15;Conciërge Oktober;600
+146;;30/11/2018;15;Conciërge November;600
+155;;31/12/2018;15;Conciërge December;600
+175;;;15;Conciërge overzicht;0
+152;;17/12/2018;11;Administratiekosten 2018;472,6
+118;17502888;18/04/2018;16;AV 18.04.18;610
+107;183922;01/07/2018;17;05.07.17 - 04.07.19;132
+47;;06/01/2018;18;Beheerkosten;24,8
+80;;11/04/2018;18;Beheerkosten;24,8
+111;;06/07/2018;18;Beheerkosten;24,8
+133;;06/10/2018;18;Beheerkosten;24,8

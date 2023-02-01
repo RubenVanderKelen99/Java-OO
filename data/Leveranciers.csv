@@ -1,0 +1,19 @@
+id;naam;btwNr;email;straat;nr;poscode;gemeente
+1;FireWorks BVBA;BE 0912.345.789;fw@fireworks.be;;;;
+2;BTI;BE 0987.654.321;bti@bti.be;;;;
+3;KNC;BE 0975.318.642;knc@knc.be;;;;
+4;VME vakantiedomein;BE 0246.813.579;vme@vakantiedomein.be;;;;
+5;company H2O;BE 1111.222.333;company@h2o.be;;;;
+6;HS exploitatie;BE 3333.222.111;hs@exploitatie.be;;;;
+7;Intrum;BE 0426.237.301;in@trum.be;;;;
+8;Eneco;BE 0683.948.879;info@eneco.be;;;;
+9;Electrabel;BE 0403.170.701;info@elektrabel.be;;;;
+10;Telenet;BE 0473.416.418;info@telenet.be;;;;
+11;Syndic;BE 1234.123.123;info@syndic.be;;;;
+12;Diverse;BE 4321.321.321;info@diverse.be;;;;
+13;Allianz;BE 1212.121.212;info@allianz.be;;;;
+14;LAR;BE 1234.554.321;info@lar.be;;;;
+15;ELC;BE 8642.642.246;info@elc.be;;;;
+16;Hotel;BE 4343.322.322;info@hotel.be;;;;
+17;Cloud Computer;BE 8765.789.987;info@cloudcomputer.be;;;;
+18;Bank;BE 0101.012.012;info@bank.be;;;;
